@@ -1,0 +1,4 @@
+
+function abcde() {
+    alert('chào!');
+}
